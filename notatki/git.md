@@ -1,0 +1,1 @@
+git status - wyswietla co sie zmienilo od ostatniego commita
